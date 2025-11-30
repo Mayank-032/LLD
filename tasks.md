@@ -13,9 +13,6 @@ Logging Framework
 
 Medium
 
-Pub-Sub
-https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/pub-sub-system.md
-
 Car Rental
 https://github.com/ashishps1/awesome-low-level-design/blob/main/problems/car-rental-system.md
 
